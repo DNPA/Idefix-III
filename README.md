@@ -3,7 +3,7 @@ The idefix-III ad hoc data transfer system is a server aimed at the secure ad-ho
 Idefix-III allows the establishment of a secure channel between a sending party and a receiving web browser without 
 reliance on end-to-end encryption or administrative overhead of an account based server setup. 
 
-Idefix-III is distributed as a customized Linux server install CD ISO image. Once installed, Idefix-III is a ihighly hardened
+Idefix-III is distributed as a customized Linux server install CD ISO image. Once installed, Idefix-III is a highly hardened
 server that should require only a minimum amount of maintenance.
 
 The system was designed especially for use by law-enforcement, and the software itself is distributed only
