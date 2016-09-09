@@ -1,5 +1,5 @@
-#Idefix III ad hoc data transfer.
-The idefix-III ad hoc data transfer system is a server aimed at ths secure ad-hoc transfer of data files.
+#Idefix III ad-hoc data transfer.
+The idefix-III ad hoc data transfer system is a server aimed at the secure ad-hoc transfer of data files.
 Idefix-III allows the establishment of a secure channel between a sending party and a receiving web browser without 
 reliance on end-to-end encryption or administrative overhead of an account based server setup. 
 
